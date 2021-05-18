@@ -19,7 +19,7 @@ Masa para 2 pizzas
 
 # Ingredientes
 
-1.  55.6% 170g Agua
+1.  55.6% 170g Agua tibia
 2.  22% 68g Masa Madre
 3.  2.2% ~7g sal
 4.  1% 3g Aceite de oliva
