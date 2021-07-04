@@ -1,5 +1,3 @@
-# Tortilla de Harina
-
 # Información
 
 ## Cantidad

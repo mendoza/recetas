@@ -1,5 +1,3 @@
-# Hamburguesas
-
 # Información
 
 ## Cantidad

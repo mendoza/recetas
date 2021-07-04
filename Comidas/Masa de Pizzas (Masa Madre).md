@@ -1,5 +1,3 @@
-# Masa de Pizzas (Masa Madre)
-
 # Información
 
 ## Cantidad

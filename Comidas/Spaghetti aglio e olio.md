@@ -1,5 +1,3 @@
-# Spaghetti aglio e olio
-
 # Información
 
 ## Cantidad

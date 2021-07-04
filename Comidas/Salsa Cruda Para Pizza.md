@@ -1,5 +1,3 @@
-# Salsa Cruda Para Pizza
-
 # Información
 
 ## Cantidad

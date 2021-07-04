@@ -1,5 +1,3 @@
-# Dona horneada
-
 # Información
 
 ## Cantidad

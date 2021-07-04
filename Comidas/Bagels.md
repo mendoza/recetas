@@ -1,5 +1,3 @@
-# Bagels
-
 # Información
 
 ## Cantidad

@@ -1,5 +1,3 @@
-# Salsa Especial
-
 # Información
 
 ## Cantidad

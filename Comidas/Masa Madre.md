@@ -1,5 +1,3 @@
-# Masa Madre
-
 # Información
 
 ## Cantidad

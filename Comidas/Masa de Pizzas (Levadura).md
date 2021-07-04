@@ -1,5 +1,3 @@
-# Masa de Pizzas (Levadura)
-
 # Información
 
 ## Cantidad

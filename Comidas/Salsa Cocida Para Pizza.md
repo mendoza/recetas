@@ -1,5 +1,3 @@
-# Salsa Cocida Para Pizza
-
 # Información
 
 ## Cantidad

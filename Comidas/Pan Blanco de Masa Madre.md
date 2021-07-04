@@ -1,5 +1,3 @@
-# Pan Blanco de Masa Madre
-
 # Información
 
 ## Cantidad
