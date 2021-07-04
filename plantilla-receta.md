@@ -6,9 +6,8 @@
 
 ### Tiempo
 
-|  |  |
+| Espera | Preparación |
 | :--- | :--- |
-| **Espera** | **Preparación** |
 |  |  |
 
 ### Temperatura
