@@ -1,5 +1,3 @@
-# Plantilla Receta
-
 # Información
 
 ## Cantidad
