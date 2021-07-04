@@ -8,9 +8,8 @@
 
 ### Tiempo
 
-|  |
+| Preparación |
 | :--- |
-| **Preparación** |
 | 20 Minutos |
 
 ## Ingredientes

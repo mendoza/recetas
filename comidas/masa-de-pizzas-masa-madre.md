@@ -8,9 +8,8 @@ Masa para 2 pizzas
 
 ### Tiempo
 
-|  |  |  |
+| Espera | Preparación | Cocción |
 | :--- | :--- | :--- |
-| **Espera** | **Preparación** | **Cocción** |
 | 14 Hora | 45 Minutos | 25 Minutos |
 
 ### Temperatura

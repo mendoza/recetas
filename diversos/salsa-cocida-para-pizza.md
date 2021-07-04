@@ -8,9 +8,8 @@ Suficiente para 2 pizzas
 
 ### Tiempo
 
-|  |  |
+| Espera | Preparación |
 | :--- | :--- |
-| **Espera** | **Preparación** |
 | 20 Minutos | 10 Minutos |
 
 ## Ingredientes

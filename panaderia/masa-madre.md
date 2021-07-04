@@ -8,9 +8,8 @@
 
 ### Tiempo
 
-|  |
+| Preparación |
 | :--- |
-| **Preparación** |
 | 1 Semana |
 
 ## Ingredientes

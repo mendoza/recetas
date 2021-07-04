@@ -10,9 +10,8 @@
 
 ### Tiempo
 
-|  |  |  |
+| Espera | Preparación | Cocción |
 | :--- | :--- | :--- |
-| **Espera** | **Preparación** | Coccion |
 | 12 Horas | 10 Minutos | 6 Minutos |
 
 ### Temperatura

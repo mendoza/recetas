@@ -8,9 +8,8 @@
 
 ### Tiempo
 
-|  |  |
+| Cocción | Preparación |
 | :--- | :--- |
-| **Coccion** | **Preparación** |
 | 10 Minutos | 30 Minutos |
 
 ### Temperatura:

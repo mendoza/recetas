@@ -8,9 +8,8 @@
 
 ### Tiempo
 
-|  |  |
+| Espera | Preparación |
 | :--- | :--- |
-| **Espera** | **Preparación** |
 | 12 Horas | 10 Minutos |
 
 ## Ingredientes

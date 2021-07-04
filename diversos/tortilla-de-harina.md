@@ -8,9 +8,8 @@
 
 ### Tiempo
 
-|  |  |
+| Espera | Preparación |
 | :--- | :--- |
-| **Espera** | **Preparación** |
 | 40 Min | 5 Min |
 
 ### Temperatura

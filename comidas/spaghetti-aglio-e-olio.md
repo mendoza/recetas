@@ -8,9 +8,8 @@ Suficiente para alimentar 1 o 2 personas
 
 ### Tiempo
 
-|  |
+| Preparación |
 | :--- |
-| **Preparación** |
 | 15 Minutos |
 
 ## Ingredientes
