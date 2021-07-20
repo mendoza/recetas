@@ -25,7 +25,7 @@ Suficiente para alimentar 1 o 2 personas
 ## Instrucciones
 
 1. Cortar en rodajas el ajo
-2. Picar finamente el perefil
+2. Picar finamente el perejil
 3. Vertir el aceite en un sarten a fuego medio
 4. Agregar el ajo
 5. Mover constantemente hasta tener las rodajas doradas
