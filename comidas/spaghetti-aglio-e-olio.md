@@ -8,9 +8,9 @@ Suficiente para alimentar 1 o 2 personas
 
 ### Tiempo
 
-| Preparación |
-| :--- |
-| 15 Minutos |
+| Preparación | Cocción |
+| :--- | :--- |
+| 15 Minutos | Seguir instrucciones de su pasta |
 
 ## Ingredientes
 
