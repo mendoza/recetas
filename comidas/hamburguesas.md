@@ -19,9 +19,8 @@
 1. 2/3 lb carne molida magra
 2. 1/3 lb carne molida grasa
 3. 1/2 cebolla morada pequeña
-4. 1 cda salsa A1
-5. 1 cda pimienta negra
-6. sal al gusto
+4. 1 cda pimienta negra
+5. sal al gusto
 
 ## Instrucciones
 
