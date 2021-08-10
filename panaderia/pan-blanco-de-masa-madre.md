@@ -29,14 +29,14 @@ Iniciar en 500º F Finalizar en 450º F
 1. Agregar las harinas y sal en el tazon y mezclar
 2. Agregar agua y masa madre
 3. Mezclar hasta que no haya nada seco
-4. 2 hora de autolisis
+4. 1 hora de autolisis
 5. 1.5 horas de bulk fermentation
    1. Cada 30 minutos hacer un stretch and fold
 6. Revisar el gluten, si no pasa el test de la ventana
 
    dejar reposar 30 minutos mas y otro stretch and fold
 
-7. Dejar descansar 2 horas
+7. Dejar descansar 1 hora
 8. Formar el pan en la mesa
 9. 14 a 16 horas en el refrigerador
 10. Meter al horno la olla al menos 30 minutos a la temperatura inicial
